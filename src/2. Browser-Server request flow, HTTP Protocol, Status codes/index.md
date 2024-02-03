@@ -5,14 +5,34 @@ It's an abbreviation for
  
 The HTTP protocol realizes communicating between client(s) and the server(s).
  
-It uses the sequence of signal pairs that jump between the client and the server named Request-Response.
- 
+It uses the sequence of signal pairs that jump between the client and the server named Request-Response. 
+
 ![HTTP Request](https://thepracticaldev.s3.amazonaws.com/i/vrcwejeqpk9bhw54afww.png)
  
 **Request** — it is a signal that the client sends to the server. The Request consists of 3 parts.
 
-1. Start line — contain information such as: the request method, the resource target, and the HTTP protocol version.
+1. **Start line** — contain information such as: the request method, the resource target, and the HTTP protocol version.
 
-2. HTTP Headers — contains client headers essential to the server.
+2. **HTTP Headers** — contains client headers essential to the server.
 
-3. Body — Not using in GET type of requests, contains all actual data.
+3. **Body** — Not using in GET type of requests, contains all actual data.
+
+
+
+---  
+
+
+
+![HTTP Response](https://slideplayer.com/slide/10945862/39/images/18/HTTP+Response+%E2%80%93+Example.jpg)
+
+**Response** — signal that server sends in return to initial request from the client. Response also consists of 3 parts.
+
+1. **Status line** — consist of lines such as HTTP version, status code, and text representation of status code.
+   
+
+2. **Response Headers** — headers that contains data essential for client such as server, Content-Length, and Content-Type.
+
+3. **Body** — main data that can vary, can be plain text, json or HTML.
+
+
+**Status code** — 3 digits code that represents status of request. For example 200, 302, 404 e.t. full list of status codes [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status).
