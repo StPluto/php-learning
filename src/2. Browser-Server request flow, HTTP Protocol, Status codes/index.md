@@ -1,3 +1,5 @@
+## Browser/Server request flow, HTTP Protocol, Status codes
+
 What is **HTTP** ?
 
 It's an abbreviation for
