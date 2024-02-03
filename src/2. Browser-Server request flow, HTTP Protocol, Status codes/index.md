@@ -1,5 +1,3 @@
-rash Course & Exploration
-
 What is **HTTP** ?
 
 It's an abbreviation for
