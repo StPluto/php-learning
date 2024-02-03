@@ -13,6 +13,6 @@ It uses the sequence of signal pairs that jump between the client and the server
 
 1. Start line — contain information such as: the request method, the resource target, and the HTTP protocol version.
 
-2. HTTP Headers — contains client headers essential to the server 
+2. HTTP Headers — contains client headers essential to the server.
 
 3. Body — Not using in GET type of requests, contains all actual data.
