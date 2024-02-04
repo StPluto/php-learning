@@ -25,7 +25,7 @@ It uses the sequence of signal pairs that jump between the client and the server
 
 
 
-![HTTP Response](https://slideplayer.com/slide/10945862/39/images/18/HTTP+Response+%E2%80%93+Example.jpg)
+![HTTP Response](https://imgur.com/a/tgH4en6)
 
 **Response** — signal that server sends in return to initial request from the client. Response also consists of 3 parts.
 
