@@ -9,7 +9,7 @@ The HTTP protocol realizes communicating between client(s) and the server(s).
  
 It uses the sequence of signal pairs that jump between the client and the server named Request-Response. 
 
-![HTTP Request](https://thepracticaldev.s3.amazonaws.com/i/vrcwejeqpk9bhw54afww.png)
+![HTTP Request](https://i.imgur.com/a/SFdA6b0)
  
 **Request** — it is a signal that the client sends to the server. The Request consists of 3 parts.
 
@@ -25,7 +25,7 @@ It uses the sequence of signal pairs that jump between the client and the server
 
 
 
-![HTTP Response](https://imgur.com/a/tgH4en6)
+![HTTP Response](https://i.imgur.com/a/tgH4en6)
 
 **Response** — signal that server sends in return to initial request from the client. Response also consists of 3 parts.
 
