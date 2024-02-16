@@ -9,7 +9,7 @@ The starting point is this [roadmap](https://github.com/thecodeholic/php-develop
 |-------------------------------------------|--------|---------------------------------------------------------|
 | ~~How does the INTERNET work?~~           | 9m     | https://youtu.be/x3c1ih2NJEg                            |
 | ~~How The Web Works - The Big Picture~~   | 12m    | https://youtu.be/hJHvdBlSxug                            |
-| How does the internet work? (Full Course) | 1h 42m | https://youtu.be/zN8YNNHcaZc                            |
+| ~~How does the internet work? (Full Course)~~ | 1h 42m | https://youtu.be/zN8YNNHcaZc                            |
 
 
 2. [Browser/Server request flow, HTTP Protocol, Status codes](https://github.com/StPluto/php-learning/blob/main/src/2.%20Browser-Server%20request%20flow%2C%20HTTP%20Protocol%2C%20Status%20codes/index.md).
