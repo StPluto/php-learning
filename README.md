@@ -19,7 +19,7 @@ The starting point is this [roadmap](https://github.com/thecodeholic/php-develop
 |---------------------------------|--------|---------------------------------------------------------|
 | ~~HTTP Crash Course & Exploration~~ | 38m    | https://youtu.be/iYM2zFP3Zn0                            |
 | ~~MDN HTTP Tutorial~~               |        | https://developer.mozilla.org/en-US/docs/Web/HTTP       |
-| vWikipedia Status Codes~~         |        | https://en.wikipedia.org/wiki/List_of_HTTP_status_codes |
+| ~~Wikipedia Status Codes~~         |        | https://en.wikipedia.org/wiki/List_of_HTTP_status_codes |
 
 
 3. [Basics of HTML-CSS](https://github.com/StPluto/php-learning/blob/main/3.%20Basics%20of%20HTML-CSS.md).
