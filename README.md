@@ -24,6 +24,6 @@ The starting point is this [roadmap](https://github.com/thecodeholic/php-develop
 | --------------------------------------------- | -------- | ---------------------------- |
 | ~~HTML Tutorial for Beginners~~               | 1h       | https://youtu.be/qz0aGYrrlhU |
 | ~~HTML Crash Course For Absolute Beginners~~  | 1h       | https://youtu.be/UB1O30fR-EE |
-| HTML Full Course - Build a Website Tutorial   | 2h       | https://youtu.be/pQN-pnXPaVg |
+| ~~HTML Full Course - Build a Website Tutorial~~   | 2h       | https://youtu.be/pQN-pnXPaVg |
 | CSS Crash Course For Absolute Beginners       | 1h 25m   | https://youtu.be/yfoY53QXEnI |
 | CSS Tutorial - Zero to Hero (Complete Course) | 6h 18m   | https://youtu.be/1Rs2ND1ryYc |
