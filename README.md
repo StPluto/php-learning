@@ -28,7 +28,7 @@ The starting point is this [roadmap](https://github.com/thecodeholic/php-develop
 | ~~CSS Crash Course For Absolute Beginners~~       | 1h 25m   | https://youtu.be/yfoY53QXEnI |
 | ~~CSS Tutorial - Zero to Hero (Complete Course)~~ | 6h 18m   | https://youtu.be/1Rs2ND1ryYc |
 
-## Basics of JavaScript
+## 4. [Basics of JavaScript](https://github.com/StPluto/php-learning/blob/main/4.%20Basics%20of%20JavaScript.md)
 
 | Resource Name                                | Duration | Resource                     |
 | -------------------------------------------- | -------- | ---------------------------- |
