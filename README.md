@@ -32,7 +32,7 @@ The starting point is this [roadmap](https://github.com/thecodeholic/php-develop
 
 | Resource Name                                | Duration | Resource                     |
 | -------------------------------------------- | -------- | ---------------------------- |
-| Javascript Crash Course for beginners        | 1h 40m   | https://youtu.be/hdI2bqOjy3c |
+| ~~Javascript Crash Course for beginners~~    | 1h 40m   | https://youtu.be/hdI2bqOjy3c |
 | Learn JavaScript - Full Course for Beginners | 3h 26m   | https://youtu.be/PkZNo7MFNFg |
 
 ## Introduction to Databases
