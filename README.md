@@ -30,10 +30,10 @@ The starting point is this [roadmap](https://github.com/thecodeholic/php-develop
 
 ## 4. [Basics of JavaScript](https://github.com/StPluto/php-learning/blob/main/4.%20Basics%20of%20JavaScript.md)
 
-| Resource Name                                | Duration | Resource                     |
-| -------------------------------------------- | -------- | ---------------------------- |
-| ~~Javascript Crash Course for beginners~~    | 1h 40m   | https://youtu.be/hdI2bqOjy3c |
-| Learn JavaScript - Full Course for Beginners | 3h 26m   | https://youtu.be/PkZNo7MFNFg |
+| Resource Name                                    | Duration | Resource                     |
+| ------------------------------------------------ | -------- | ---------------------------- |
+| ~~Javascript Crash Course for beginners~~        | 1h 40m   | https://youtu.be/hdI2bqOjy3c |
+| ~~Learn JavaScript - Full Course for Beginners~~ | 3h 26m   | https://youtu.be/PkZNo7MFNFg |
 
 ## Introduction to Databases
 
